@@ -21,7 +21,12 @@
     "png",
     "terminal"
   ],
-  "author": "Gerson Canaza",
+  "author": "Gustavo Canales (https://github.com/Gustav0C)",
+  "homepage": "https://github.com/Gustav0C/qr-gen#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustav0C/qr-gen.git"
+  },
   "license": "MIT",
   "dependencies": {
     "qrcode": "^1.5.4",

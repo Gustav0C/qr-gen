@@ -13,7 +13,7 @@ Sin APIs intermediarias, sin suscripciones y sin fechas de vencimiento. El códi
 Clona el repositorio e instálalo globalmente con npm:
 
 ```bash
-git clone https://github.com/TU_USUARIO/qr-gen.git
+git clone https://github.com/Gustav0C/qr-gen.git
 cd qr-gen
 npm install
 npm link
@@ -26,7 +26,7 @@ npm link
 ### Opción 2: Usar sin instalación global (en la carpeta del proyecto)
 
 ```bash
-git clone https://github.com/TU_USUARIO/qr-gen.git
+git clone https://github.com/Gustav0C/qr-gen.git
 cd qr-gen
 npm install
 
@@ -110,4 +110,4 @@ main();
 
 ## 📄 Licencia
 
-MIT © [Gerson Canaza](https://github.com)
+MIT © [Gustavo Canales](https://github.com/Gustav0C)
