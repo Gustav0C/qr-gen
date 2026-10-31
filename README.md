@@ -6,6 +6,8 @@ Sin APIs intermediarias, sin suscripciones y sin fechas de vencimiento. El códi
 
 ---
 
+<img width="823" height="645" alt="Portafolioimage" src="https://github.com/user-attachments/assets/e6120eb2-02c3-4b03-bdcf-def52b88805d" />
+
 ## 🚀 Instalación rápida
 
 ### Opción 1: Instalar como comando global en tu máquina
